@@ -2,6 +2,8 @@
 
 Demo App To Detect Drones Using Bluetooth and WiFi based on _flutter_opendroneid_
 
+![Drone Detector Demo](https://github.com/randomlee101/drone-detector-demo/blob/main/Screenshot_20231120_125238.png)
+
 ## To Set Up
 
 Clone this repository and fetch the required packages with
